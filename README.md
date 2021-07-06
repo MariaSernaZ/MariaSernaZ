@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, my name is María 👩🏻‍💻
 
-<!--
-**MariaSernaZ/MariaSernaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I discovered a new passion, a new way of combining my creative and analytical skills: programming.
 
-Here are some ideas to get you started:
+📸 Passionate about photography.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **How to reach me**:
+
+Linkedin: https://www.linkedin.com/in/maria-serna-zafra
+
+Email: maria.serna.zafra@gmail.com
+
+
+
+
