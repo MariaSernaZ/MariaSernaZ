@@ -1,4 +1,4 @@
-### Hi there, my name is María 👩🏻‍💻
+# Hi there, my name is María 👩🏻‍💻
 
 I discovered a new passion, a new way of combining my creative and analytical skills: programming.
 
