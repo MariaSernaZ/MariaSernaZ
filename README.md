@@ -1,10 +1,10 @@
 ## Hi there, my name is María 👩🏻‍💻
 
-![Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
+![Hi, I'm María 👋 I'm a 🚀 Junior Frontend Developer 🚀](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
 
 #### Who am I?
 
-I´m a **Junior Frontend Developer**, who discovered a new passion, a new way of combining my creative and analytical skills: programming. 
+I discovered a new passion, a new way of combining my creative and analytical skills: programming. 
 
 Passionate about photography 📸, travel :airplane: and sports.
 
