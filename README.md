@@ -13,6 +13,7 @@ I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
   * Create SPAs with React
 
 **Knowledge**:
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 
 **Tools**:
 
