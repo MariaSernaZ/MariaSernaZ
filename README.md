@@ -13,6 +13,8 @@ I´ve just finished a Bootcamp at [Adalab](https://adalab.es/) and I learned:
   * Manage APIs with JavaScript and React
   * Version control with Git
   * Create SPAs with React
+ 
+ <br>
 
 **Technologies**: <br>
 <div align="left">
