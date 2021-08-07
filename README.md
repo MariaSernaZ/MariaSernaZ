@@ -1,6 +1,6 @@
 ## Hi there, my name is María 👩🏻‍💻
 
-#### Who am I?
+### Who am I?
 
 I´m a **Junior Frontend Developer**, who discovered a new passion, a new way of combining my creative and analytical skills: programming. 
 
@@ -37,7 +37,7 @@ I´ve just finished a Bootcamp at [Adalab](https://adalab.es/) and I learned:
 </div>
 <hr>
 
-#### How to reach me 📫
+### How to reach me 📫
   <a href="mailto:maria.serna.zafra@gmail.com"><img src="https://img.icons8.com/color/35/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/35/000000/linkedin.png" alt="linkedin"/></a>
 
