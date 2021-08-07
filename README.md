@@ -19,9 +19,9 @@ I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
 
 
 
-#### How to reach me 📫
+#### How to find me 📫
 
-Linkedin: https://www.linkedin.com/in/maria-serna-zafra
+[Linkedin](https://www.linkedin.com/in/maria-serna-zafra)
 
 Email: maria.serna.zafra@gmail.com
 
