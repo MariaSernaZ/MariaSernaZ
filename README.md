@@ -4,7 +4,7 @@
 
 I´m a Junior Frontend Developer, who discovered a new passion, a new way of combining my creative and analytical skills: programming. 
 
-Passionate about photography 📸, travel :airplane: and sports.
+Passionate about photography 📸, travel :airplane: and sports :sport:.
 
 
 📫 **How to reach me**:
