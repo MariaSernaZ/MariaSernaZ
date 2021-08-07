@@ -25,7 +25,7 @@ I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
   <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=MariaSernaZ" alt="visitor badge"/>
 </p>
 
 
