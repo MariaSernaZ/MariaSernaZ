@@ -6,7 +6,9 @@ I´m a **Junior Frontend Developer**, who discovered a new passion, a new way of
 
 Passionate about photography 📸, travel :airplane: and sports.
 
-I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
+<br>
+
+I´ve just finished a Bootcamp at [Adalab](https://adalab.es/) and I learned:
   * HTML5, CSS3, Sass
   * Manage APIs with JavaScript and React
   * Version control with Git
