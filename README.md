@@ -19,7 +19,7 @@ I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
 
 
 
-#### How to find me 📫
+#### How to reach me 📫
 
 [Linkedin](https://www.linkedin.com/in/maria-serna-zafra)
 
