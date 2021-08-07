@@ -10,7 +10,7 @@ I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
   * HTML5, CSS3, Sass
   * Manage APIs with JavaScript and React
   * Version control with Git
-  * Creation of SPAs with React
+  * Create SPAs with React
 
 **Knowledge**:
 
