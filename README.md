@@ -12,7 +12,7 @@ I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
   * Version control with Git
   * Create SPAs with React
 
-**Technologies**:
+**Technologies**: <br>
 <div align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="35" height="35"/>
