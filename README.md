@@ -22,7 +22,6 @@ I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="35" height="35"/>
 </div>
 
-<hr>
 
 **Tools**:
 <div align="left">
@@ -32,6 +31,7 @@ I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png" alt="Zeplin" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/d04b3327e0e9fb941fb8dede96375c7425135a349054a0ed65e5047c59e8918c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f736c61636b2d6e65772e706e67" alt="Slack" width="40" height="40"/>
 </div>
+<hr>
 
 #### How to reach me 📫
   <a href="mailto:maria.serna.zafra@gmail.com"><img src="https://img.icons8.com/color/35/000000/gmail.png" alt="email"/></a>
