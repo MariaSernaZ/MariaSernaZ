@@ -25,9 +25,9 @@ I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
   <a href="mailto:maria.serna.zafra@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
 
-<p  align="center">
+<div  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=MariaSernaZ" alt="visitor badge"/>
-</p>
+</div>
 
 
 
