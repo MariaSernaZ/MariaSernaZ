@@ -21,7 +21,7 @@ I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
 
 #### How to reach me 📫
 
-  <a href="mailto:maria.serna.zafra@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="mailto:maria.serna.zafra@gmail.com"><img src="https://img.icons8.com/color/86/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 
 <p  align="center">
