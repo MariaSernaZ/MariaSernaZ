@@ -6,7 +6,8 @@ I´m a Junior Frontend Developer, who discovered a new passion, a new way of com
 
 Passionate about photography 📸, travel :airplane: and sports.
 
-**Knowledge**
+**Knowledge** 📔
+
 
 
 
