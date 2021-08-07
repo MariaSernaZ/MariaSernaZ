@@ -13,10 +13,13 @@ I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
   * Create SPAs with React
 
 **Knowledge**:
-<div  align="center">
+<div>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+ 
 </div>
-![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
 
 **Tools**:
 
@@ -24,13 +27,8 @@ I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
 
 
 #### How to reach me 📫
-
   <a href="mailto:maria.serna.zafra@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
-
-<div  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=MariaSernaZ" alt="visitor badge"/>
-</div>
 
 
 
