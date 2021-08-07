@@ -14,7 +14,7 @@ I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
 
 **Technologies**:
 <div align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="40" height="40"/>
@@ -32,8 +32,8 @@ I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
 </div>
 
 #### How to reach me 📫
-  <a href="mailto:maria.serna.zafra@gmail.com"><img src="https://img.icons8.com/color/40/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="mailto:maria.serna.zafra@gmail.com"><img src="https://img.icons8.com/color/35/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/35/000000/linkedin.png" alt="linkedin"/></a>
 
 
 
