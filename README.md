@@ -7,7 +7,7 @@ I´m a Junior Frontend Developer, who discovered a new passion, a new way of com
 Passionate about photography 📸, travel :airplane: and sports.
 
 
-📫 **How to contact me**:
+📫 **How to reach me**:
 
 Linkedin: https://www.linkedin.com/in/maria-serna-zafra
 
