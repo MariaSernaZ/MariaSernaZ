@@ -6,7 +6,7 @@ Passionate about photography 📸, travel :airplane: and sports.
 
 <br>
 
-I´ve just finished a Bootcamp at [Adalab](https://adalab.es/) and I learned:
+I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I learned:
   * HTML5, CSS3, Sass
   * Manage APIs with JavaScript and React
   * Version control with Git
