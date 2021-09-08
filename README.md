@@ -1,8 +1,12 @@
 ## Hi there, my name is María 👩🏻‍💻
 
-I´m a **Junior Frontend Developer**, who discovered a new passion, a new way of combining my creative and analytical skills: programming. 
+I´m a **Junior Frontend Developer**, who discovered programming by chance, catching me the creativity and the possibility of **making an impact on society.**
 
-Passionate about photography 📸, travel :airplane: and sports.
+My experience working in different types of companies has made me a person with **adaptability** and **ease of learning.**
+
+Passionate about **photography** 📸, **travel** :airplane: and **sports.**
+
+I consider myself a **hard-working** and **curious** person, **enjoying learning every day.**
 
 <br>
 
